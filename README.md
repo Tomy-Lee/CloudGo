@@ -1,6 +1,6 @@
 # golang web简单应用开发、配置与测试
 
-### 本次使用的web开发框架是Martini，Martini 是一个非常新的 Go 语言的 Web 框架，使用 Go 的 net/http 接口开发，类似 Sinatra 或者 Flask 之类的框架，也可使用自己的 DB 层、会话管理和模板。Martini框架在GitHub上都有中文的解释以及用法，比较容易上手。
+### 本次使用的web开发框架是Martini，Martini 是一个非常新的 Go 语言的 Web 框架，使用 Go 的 net/http 接口开发，类似 Sinatra 或者 Flask 之类的框架，也可使用自己的 DB 层、会话管理和模板。Martini框架在GitHub和博客上都有中文的解释以及用法，比较容易上手。
 特性：
 ```
 1.使用非常简单
