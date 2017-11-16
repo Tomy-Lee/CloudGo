@@ -2,9 +2,8 @@ package main
 
 import (
     "os"
-	//引进我在本地文件夹下的server.go
-    "web/server"
-    flag "github.com/pflag"
+    "github.com/web/server"
+    flag "github.com/spf13/pflag"
 )
 
 const (
