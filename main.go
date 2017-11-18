@@ -2,7 +2,8 @@ package main
 
 import (
     "os"
-    "github.com/web/server"
+	//直接调用自己文件夹下的包
+    "/web/server"
     flag "github.com/spf13/pflag"
 )
 
