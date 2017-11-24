@@ -48,7 +48,7 @@ go get github.com/go-martini/martini
 ### <三>编译运行，开始监听我设置的8080端口。
 ![1](img/文件结构组织.png)
 ![2](img/端口监听.png)
-### <四>打开http://localhost:8080/查看输出结果。
+### <四>打开`http://localhost:8080/` 查看输出结果。
 ![3](img/localhost.png)
 ### <五>curl测试，用户程序可读性良好，程序扩展自然，几乎没有任何累赘。
 ![4](img/curl测试.png)
